@@ -1,0 +1,20 @@
+/* filepath: /Users/nguyenquoc/Code/angular-starter/src/app/dashboard/edit-product-dialog.component.scss */
+.product-form {
+  display: flex;
+  flex-direction: column;
+}
+
+mat-form-field {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+mat-dialog-content {
+  padding: 16px;
+}
+
+mat-dialog-actions {
+  padding: 8px 16px;
+  display: flex;
+  justify-content: flex-end;
+}
